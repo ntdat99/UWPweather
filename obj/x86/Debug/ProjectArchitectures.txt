@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\WeatherAppDemo\WeatherAppDemo.csproj;x86
